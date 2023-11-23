@@ -88,8 +88,4 @@ export default {
 }
 </script>
 
-<style scoped>
-.avg-dwell-time {
-    width: 240px;
-}
-</style>
+<style scoped></style>

@@ -2,7 +2,7 @@
 
 A dashboard built using Vue.js, Vuetify and partially Vuex.
 
-## [Screenshots]()
+## [Screenshots](https://github.com/AmmarNaeemJanjua/vue-dashboard/tree/main/screenshots)
 ```
 screenshots (folder)
 ```
